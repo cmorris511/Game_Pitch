@@ -1,6 +1,6 @@
 body {
   font-family: 'Arial', sans-serif;
-  background: linear-gradient(to bottom, #ffe6f0, #fff0f5);
+  background-image: url('Blossom.avif');
   color: #4a0033;
   margin: 0;
   line-height: 1.6;
@@ -81,7 +81,7 @@ body {
   line-height: 1.6;
 
   /* Sakura side decorations */
-  background-image: url('images/sakura-left.png'), url('images/sakura-right.png');
+  background-image: url('sakura-left.png'), url('sakura-right.png');
   background-position: left top, right top;
   background-repeat: repeat-y, repeat-y;
   background-size: 150px, 150px;
