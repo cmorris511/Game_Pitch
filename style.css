@@ -8,7 +8,7 @@ body {
 
 /* Header */
 header {
-  background-image: url('Blossom.avif');
+  background: white;
   color: white;
   text-align: center;
   padding: 50px 20px;
