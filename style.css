@@ -96,17 +96,3 @@ section::after {
   margin-top: 15px;
   font-size: 14px;
 }
-
-body {
-  font-family: 'Quicksand', sans-serif;
-  background: linear-gradient(to bottom, #ffe6f0, #fff0f5);
-  color: #4a0033;
-  margin: 0;
-  line-height: 1.6;
-
-  /* Sakura side decorations */
-  background-image: url('sakura-left.png'), url('sakura-right.png');
-  background-position: left top, right top;
-  background-repeat: repeat-y, repeat-y;
-  background-size: 150px, 150px;
-}
