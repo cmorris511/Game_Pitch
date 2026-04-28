@@ -8,13 +8,15 @@ body {
 
 /* Header */
 header {
-  background-image: url('Blossom.avif');
-  background-size: 80%;
+  background-image: url("Blossom.avif");
+  background-size: 85%;
   background-position: center;
   background-repeat: no-repeat;
+  background-color: #e8a8b0;
+
   color: white;
   text-align: center;
-  padding: 80px 20px;
+  padding: 90px 20px;
   border-bottom: 5px solid #ff1a66;
 }
 
