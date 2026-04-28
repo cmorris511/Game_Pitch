@@ -25,7 +25,31 @@ header p {
   margin-top: 10px;
   font-size: 18px;
 }
+/* Navigation Section */ 
+.main-nav {
+    text-align: center;         /* center the links */
+    background-color: #b24d88;  /* same as header for consistency */
+    padding: 10px 0;            /* some vertical padding */
+}
 
+.main-nav a {
+    color: white;               /* white links */
+    text-decoration: none;      /* remove underline */
+    margin: 0 15px;             /* space between links */
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+    transition: color 0.3s;
+}
+
+.main-nav a:hover {
+    color: #a14f5d;             /* hover effect */
+}
+
+.main-nav {
+    position: sticky;
+    top: 0;
+    z-index: 100; /* stay on top of other elements */
+}
 /* Sections (cards) */
 section {
   background: white;
