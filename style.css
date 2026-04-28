@@ -1,6 +1,6 @@
 body {
   font-family: 'Arial', sans-serif;
-  background-image: url('Blossom.avif');
+  background: white;
   color: #4a0033;
   margin: 0;
   line-height: 1.6;
@@ -8,7 +8,7 @@ body {
 
 /* Header */
 header {
-  background: linear-gradient(to right, #ff4d88, #ff99cc);
+  background-image: url('Blossom.avif');
   color: white;
   text-align: center;
   padding: 50px 20px;
