@@ -9,7 +9,7 @@ body {
 /* Header */
 header {
   background-image: url('Blossom.avif');
-  background-size: cover;
+  background-size: 80%;
   background-position: center;
   background-repeat: no-repeat;
   color: white;
